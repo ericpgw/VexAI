@@ -1,0 +1,22 @@
+# Python byte-code and caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Egg / distribution artefacts
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# pytest cache
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
